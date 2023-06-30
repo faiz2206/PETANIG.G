@@ -17,11 +17,9 @@
 # Halaman Sesudah Insert Data
 ![alt text](https://github.com/faiz2206/PETANIG.G/blob/main/tugas2/WhatsApp%20Image%202023-06-30%20at%2021.21.35.jpeg?raw=true)
 # Halaman Edit
-![alt text](https://github.com/faiz2206/PETANIG.G/blob/main/tugas2/halaman%20ubah.png?raw=true)
-# Halaman Sesudah Edit
-![alt text](https://github.com/faiz2206/PETANIG.G/blob/main/tugas2/halaman%20sudah%20berubah.png?raw=true)
+![alt text]((https://github.com/faiz2206/PETANIG.G/blob/main/tugas2/halaman%20insert%20data.png)?raw=true)
 # Halaman Utama Sesudah DI Edit
-![alt text](https://github.com/faiz2206/PETANIG.G/blob/main/tugas2/halaman%20sudah%20save.png?raw=true)
+![alt text](https://github.com/faiz2206/PETANIG.G/blob/main/tugas2/halaman%20setelah%20insert%20data.png?raw=true)
 # Jika data di hapu semua akan kembali pada halaman Utama
 ![alt text](https://github.com/faiz2206/PETANIG.G/blob/main/tugas2/tampilan%20utama.png?raw=true)
 ![alt text](?raw=true)
