@@ -13,9 +13,9 @@
 # git hub
 ![alt text](https://github.com/faiz2206/petaniGG/blob/main/gradle/wrapper/gambar/github.png?raw=true)
 # Halaman Insert Data
-![alt text](https://github.com/faiz2206/PETANIG.G/blob/main/tugas2/halaman%20save.png?raw=true)
+![alt text](https://github.com/faiz2206/PETANIG.G/blob/main/tugas2/WhatsApp%20Image%202023-06-30%20at%2021.21.30.jpeg?raw=true)
 # Halaman Sesudah Insert Data
-![alt text](https://github.com/faiz2206/PETANIG.G/blob/main/tugas2/halaman%20sudah%20save.png?raw=true)
+![alt text](https://github.com/faiz2206/PETANIG.G/blob/main/tugas2/WhatsApp%20Image%202023-06-30%20at%2021.21.35.jpeg?raw=true)
 # Halaman Edit
 ![alt text](https://github.com/faiz2206/PETANIG.G/blob/main/tugas2/halaman%20ubah.png?raw=true)
 # Halaman Sesudah Edit
